@@ -1,0 +1,37 @@
+---
+Edinburgh and Crieff:
+  x: -600
+  y: -900
+Aachen:
+  x: 200
+  y: 100
+Hamburg:
+  x: 600
+  y: -275
+Berlin:
+  x: 850
+  y: -50
+London:
+  x: -450
+  y: -100
+Wales:
+  x: -680
+  y: -350
+York:
+  x: -475
+  y: -500
+Edinburgh:
+  x: -600
+  y: -825
+Scottish Highlands:
+  x: -700
+  y: -1000
+Cliffs of Moher:
+  x: -1220
+  y: -420
+Ring of Kerry:
+  x: -1300
+  y: -270
+Dublin:
+  x: -925
+  y: -500
