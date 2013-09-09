@@ -13,5 +13,5 @@ task :compile do
 
   # main.js
   response = get('/main.js')
-  File.open('./public/main.js', 'w+') { |f| f.write response.body }
+  File.open('./main.js', 'w+') { |f| f.write response.body }
 end
